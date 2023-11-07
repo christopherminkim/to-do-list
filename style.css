@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+.task-ui {
+  text-align: center;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+ui li {
+  cursor: pointer;
+}
+ul li.checked {
+  text-decoration: line-through;
+}
